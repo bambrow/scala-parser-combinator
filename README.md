@@ -1,7 +1,8 @@
 # Parser Combinator Project
 
-The goal of this project is to implement a parser combinator
-library.
+In this project, a Scala parser combinator library is implemented and used
+for a JSON parser and a command line calculator. This parser combinator library
+can be extended to many arbitrary parsers.
 
 ## Project Contributor
 
