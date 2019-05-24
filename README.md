@@ -4,7 +4,7 @@ In this project, a Scala parser combinator library is implemented and used
 for a JSON parser and a command line calculator. This parser combinator library
 can be extended to many arbitrary parsers.
 
-## Project Contributor
+## Project Contributors
 
 - Liheng Gong
 - Weiqiang Li
